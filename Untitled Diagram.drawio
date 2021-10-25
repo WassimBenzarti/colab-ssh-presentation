@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T13:59:58.729Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="480WBofHARrrlNU1ZlWI" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-25T15:55:44.758Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="m5gmtqtNBU5pz4Y2MJak" version="15.5.9" type="github" pages="2">
   <diagram id="qte1JerlaVuiDXVWIzDq" name="Page-1">
     <mxGraphModel dx="715" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,6 +41,32 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="479.99999999999864" y="160" as="sourcePoint" />
             <mxPoint x="620" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dnqgK-FfHyaXNX3I06oT" name="Page-2">
+    <mxGraphModel dx="858" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="y6Hn_BD8DOVVGisQ2gLs-0" />
+        <mxCell id="y6Hn_BD8DOVVGisQ2gLs-1" parent="y6Hn_BD8DOVVGisQ2gLs-0" />
+        <mxCell id="y6Hn_BD8DOVVGisQ2gLs-11" value="&lt;h4&gt;Private network&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;spacingTop=-12;" vertex="1" parent="y6Hn_BD8DOVVGisQ2gLs-1">
+          <mxGeometry x="420" y="137" width="240" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="y6Hn_BD8DOVVGisQ2gLs-2" value="Google Colab&lt;br&gt;VM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="y6Hn_BD8DOVVGisQ2gLs-1">
+          <mxGeometry x="480" y="190" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="y6Hn_BD8DOVVGisQ2gLs-5" value="SSH client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="y6Hn_BD8DOVVGisQ2gLs-1">
+          <mxGeometry x="130" y="190" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="y6Hn_BD8DOVVGisQ2gLs-6" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="y6Hn_BD8DOVVGisQ2gLs-1">
+          <mxGeometry x="80" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y6Hn_BD8DOVVGisQ2gLs-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="y6Hn_BD8DOVVGisQ2gLs-1" source="y6Hn_BD8DOVVGisQ2gLs-5" target="y6Hn_BD8DOVVGisQ2gLs-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="310" as="sourcePoint" />
+            <mxPoint x="370" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
