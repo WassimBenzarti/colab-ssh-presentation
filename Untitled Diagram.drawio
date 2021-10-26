@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T17:03:31.166Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="DHNIJxBh2s-QHFIS3IlE" version="15.5.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-26T17:05:14.480Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="kWsY6d1QMsKSW8hkyneu" version="15.5.9" type="github" pages="4">
   <diagram id="qte1JerlaVuiDXVWIzDq" name="Page-1">
     <mxGraphModel dx="945" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -195,6 +195,12 @@
         </mxCell>
         <mxCell id="ji5snkbIsai23BtuvsSg-17" value="&lt;a href=&quot;https://emojipedia.org/key/&quot; style=&quot;color: rgb(197 , 138 , 249) ; text-decoration: none ; outline: 0px ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;&lt;h3 class=&quot;LC20lb DKV0Md&quot; style=&quot;font-weight: normal ; margin: 0px ; padding: 5px 0px 0px ; font-size: 20px ; line-height: 1.3 ; display: inline-block&quot;&gt;í ½í´‘&lt;/h3&gt;&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="E6gDk6zCgD-9LZyxD15C-1">
           <mxGeometry x="303.25" y="150" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ji5snkbIsai23BtuvsSg-18" value=":22" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="E6gDk6zCgD-9LZyxD15C-1">
+          <mxGeometry x="530" y="250" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ji5snkbIsai23BtuvsSg-19" value=":22" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="E6gDk6zCgD-9LZyxD15C-1">
+          <mxGeometry x="220" y="203.5" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
