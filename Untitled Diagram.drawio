@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T17:05:14.480Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="kWsY6d1QMsKSW8hkyneu" version="15.5.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-26T17:08:17.826Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="TLh9sLNPjw-h3-4m7qg3" version="15.5.9" type="github" pages="4">
   <diagram id="qte1JerlaVuiDXVWIzDq" name="Page-1">
     <mxGraphModel dx="945" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -136,7 +136,7 @@
         <mxCell id="ji5snkbIsai23BtuvsSg-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="E6gDk6zCgD-9LZyxD15C-1">
           <mxGeometry x="110" y="170" width="160" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="deQw5hNs6yGFVuFpki4f-0" value="SSH Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E6gDk6zCgD-9LZyxD15C-1">
+        <mxCell id="deQw5hNs6yGFVuFpki4f-0" value="SSH Server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="E6gDk6zCgD-9LZyxD15C-1">
           <mxGeometry x="130" y="190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="deQw5hNs6yGFVuFpki4f-1" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="E6gDk6zCgD-9LZyxD15C-1">
@@ -169,7 +169,7 @@
         <mxCell id="ji5snkbIsai23BtuvsSg-5" value="SSH Client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E6gDk6zCgD-9LZyxD15C-1">
           <mxGeometry x="130" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ji5snkbIsai23BtuvsSg-8" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="E6gDk6zCgD-9LZyxD15C-1">
+        <mxCell id="ji5snkbIsai23BtuvsSg-8" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="E6gDk6zCgD-9LZyxD15C-1">
           <mxGeometry x="360" y="197" width="33" height="33" as="geometry" />
         </mxCell>
         <mxCell id="ji5snkbIsai23BtuvsSg-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="E6gDk6zCgD-9LZyxD15C-1" target="ji5snkbIsai23BtuvsSg-8">
@@ -190,7 +190,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ji5snkbIsai23BtuvsSg-15" value="Access to port 22" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=50;align=right;spacing=10;" vertex="1" parent="E6gDk6zCgD-9LZyxD15C-1">
+        <mxCell id="ji5snkbIsai23BtuvsSg-15" value="Access to port 22" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;arcSize=50;align=right;spacing=10;strokeColor=#82b366;" vertex="1" parent="E6gDk6zCgD-9LZyxD15C-1">
           <mxGeometry x="303.25" y="158" width="146.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ji5snkbIsai23BtuvsSg-17" value="&lt;a href=&quot;https://emojipedia.org/key/&quot; style=&quot;color: rgb(197 , 138 , 249) ; text-decoration: none ; outline: 0px ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;&lt;h3 class=&quot;LC20lb DKV0Md&quot; style=&quot;font-weight: normal ; margin: 0px ; padding: 5px 0px 0px ; font-size: 20px ; line-height: 1.3 ; display: inline-block&quot;&gt;í ½í´‘&lt;/h3&gt;&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="E6gDk6zCgD-9LZyxD15C-1">
