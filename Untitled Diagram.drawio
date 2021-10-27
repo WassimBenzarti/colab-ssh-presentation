@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T17:20:39.046Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="oljBPEaDQKqt9-Gk43fv" version="15.5.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-10-27T09:09:25.686Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="9zmKPZxcuCCgGA_uTmXb" version="15.5.9" type="github" pages="6">
   <diagram id="qte1JerlaVuiDXVWIzDq" name="Page-1">
-    <mxGraphModel dx="945" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dnqgK-FfHyaXNX3I06oT" name="Page-2">
-    <mxGraphModel dx="945" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="y6Hn_BD8DOVVGisQ2gLs-0" />
         <mxCell id="y6Hn_BD8DOVVGisQ2gLs-1" parent="y6Hn_BD8DOVVGisQ2gLs-0" />
@@ -69,19 +69,48 @@
             <mxPoint x="420" y="225" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Af6rB0Vktqk0wmlN9N5y-0" value="" style="endArrow=none;html=1;rounded=0;startSize=12;fillColor=#f8cecc;strokeColor=#FCA09D;strokeWidth=5;" parent="y6Hn_BD8DOVVGisQ2gLs-1" edge="1">
+        <mxCell id="aK4xcl1XW8VDYmz1rtgd-0" value=":22" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="y6Hn_BD8DOVVGisQ2gLs-1" vertex="1">
+          <mxGeometry x="480" y="217" width="30" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="PrivateNetworkGoogleColab" id="l5Y000_HAACe0b6bZiJg">
+    <mxGraphModel dx="830" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="P49l18Fizp6QeI1553md-0" />
+        <mxCell id="P49l18Fizp6QeI1553md-1" parent="P49l18Fizp6QeI1553md-0" />
+        <mxCell id="P49l18Fizp6QeI1553md-2" value="&lt;h4&gt;Private network&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;spacingTop=-12;" vertex="1" parent="P49l18Fizp6QeI1553md-1">
+          <mxGeometry x="420" y="130" width="240" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="P49l18Fizp6QeI1553md-3" value="Google Colab&lt;br&gt;VM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P49l18Fizp6QeI1553md-1">
+          <mxGeometry x="480" y="183" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="P49l18Fizp6QeI1553md-4" value="SSH client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P49l18Fizp6QeI1553md-1">
+          <mxGeometry x="130" y="190" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="P49l18Fizp6QeI1553md-5" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="P49l18Fizp6QeI1553md-1">
+          <mxGeometry x="80" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P49l18Fizp6QeI1553md-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="P49l18Fizp6QeI1553md-1" source="P49l18Fizp6QeI1553md-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="310" as="sourcePoint" />
+            <mxPoint x="420" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P49l18Fizp6QeI1553md-7" value="" style="endArrow=none;html=1;rounded=0;startSize=12;fillColor=#f8cecc;strokeColor=#FCA09D;strokeWidth=5;" edge="1" parent="P49l18Fizp6QeI1553md-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="250" as="sourcePoint" />
             <mxPoint x="320" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Af6rB0Vktqk0wmlN9N5y-1" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#FCA09D;strokeWidth=5;" parent="y6Hn_BD8DOVVGisQ2gLs-1" edge="1">
+        <mxCell id="P49l18Fizp6QeI1553md-8" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#FCA09D;strokeWidth=5;" edge="1" parent="P49l18Fizp6QeI1553md-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="250" as="sourcePoint" />
             <mxPoint x="370" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aK4xcl1XW8VDYmz1rtgd-0" value=":22" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="y6Hn_BD8DOVVGisQ2gLs-1">
+        <mxCell id="P49l18Fizp6QeI1553md-9" value=":22" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="P49l18Fizp6QeI1553md-1">
           <mxGeometry x="480" y="217" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
@@ -215,7 +244,7 @@
             <mxPoint x="629.25" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oM0EfN40lRTURA-r5nhg-0" value="&lt;a href=&quot;https://emojipedia.org/key/&quot; style=&quot;color: rgb(197 , 138 , 249) ; text-decoration: none ; outline: 0px ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;&lt;h3 class=&quot;LC20lb DKV0Md&quot; style=&quot;font-weight: normal ; margin: 0px ; padding: 5px 0px 0px ; font-size: 20px ; line-height: 1.3 ; display: inline-block&quot;&gt;í ½í´‘&lt;/h3&gt;&lt;/a&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="E6gDk6zCgD-9LZyxD15C-1">
+        <mxCell id="oM0EfN40lRTURA-r5nhg-0" value="&lt;a href=&quot;https://emojipedia.org/key/&quot; style=&quot;color: rgb(197 , 138 , 249) ; text-decoration: none ; outline: 0px ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;&lt;h3 class=&quot;LC20lb DKV0Md&quot; style=&quot;font-weight: normal ; margin: 0px ; padding: 5px 0px 0px ; font-size: 20px ; line-height: 1.3 ; display: inline-block&quot;&gt;ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½&lt;/h3&gt;&lt;/a&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="E6gDk6zCgD-9LZyxD15C-1">
           <mxGeometry x="523.25" y="150" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
@@ -311,7 +340,7 @@
             <mxPoint x="629.25" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oqL_JSnjSoJgp1dwcPew-21" value="&lt;a href=&quot;https://emojipedia.org/key/&quot; style=&quot;color: rgb(197 , 138 , 249) ; text-decoration: none ; outline: 0px ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;&lt;h3 class=&quot;LC20lb DKV0Md&quot; style=&quot;font-weight: normal ; margin: 0px ; padding: 5px 0px 0px ; font-size: 20px ; line-height: 1.3 ; display: inline-block&quot;&gt;í ½í´‘&lt;/h3&gt;&lt;/a&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="oqL_JSnjSoJgp1dwcPew-1">
+        <mxCell id="oqL_JSnjSoJgp1dwcPew-21" value="&lt;a href=&quot;https://emojipedia.org/key/&quot; style=&quot;color: rgb(197 , 138 , 249) ; text-decoration: none ; outline: 0px ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;&lt;h3 class=&quot;LC20lb DKV0Md&quot; style=&quot;font-weight: normal ; margin: 0px ; padding: 5px 0px 0px ; font-size: 20px ; line-height: 1.3 ; display: inline-block&quot;&gt;ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½&lt;/h3&gt;&lt;/a&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="oqL_JSnjSoJgp1dwcPew-1">
           <mxGeometry x="523.25" y="150" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
